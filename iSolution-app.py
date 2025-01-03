@@ -8,7 +8,7 @@ app = Flask(__name__)
 @app.route('/')
 def hello():
     # Return a welcome message
-    return "Hello, Welcome to iSolution_v01"
+    return "Hello, Welcome to iSolution"
 
 # Run the application if this script is executed directly
 if __name__ == '__main__':
