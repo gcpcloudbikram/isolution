@@ -9,4 +9,4 @@ steps:
 
 # Store images in Google Artifact Registry
 images:
-  - us-central1-docker.pkg.dev/project-isolution/isolution-artifact-repo/isolution-app:${SHORT_SHA}
+  - us-central1-docker.pkg.dev/project-isolution/isolution-artifact-repo/isolution-app/my-app:${SHORT_SHA}
